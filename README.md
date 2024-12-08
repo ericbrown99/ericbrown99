@@ -1,16 +1,17 @@
-## Hi there 👋
+<div style="background-image: url('https://x.com/0xEricBrown/header_photo'); background-size: cover; padding: 20px;">
 
-<!--
-**ericbrown99/ericbrown99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [eric.base.eth](https://base.org/names/eric) 🏗️ 
 
-Here are some ideas to get you started:
+🔷 Leading builder success at Base. Formerly a VC backed onchain founder, solidity & evm security community founder, and tradfi to onchain converter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Helping builders on base thrive on base
+
+---
+
+
+[![Farcaster](https://img.shields.io/badge/farcaster-ericbrown.eth)](https://warpcast.com/ericbrown.eth)
+[![Twitter](https://img.shields.io/badge/Twitter-0xEricBrown-blue?style=flat&logo=twitter)](https://twitter.com/0xEricBrown)
+[![Base](https://img.shields.io/badge/Base-Builder-blue?style=flat&logo=ethereum)](https://base.org)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
+
+</div>
