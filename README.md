@@ -1,11 +1,11 @@
 <div style="background-image: url('https://x.com/0xEricBrown/header_photo'); background-size: cover; padding: 20px;">
+</div>
 
 # [eric.base.eth](https://base.org/names/eric) 🏗️ 
 
 🔷 Leading builder success at Base
-🛠️ Formerly an onchain founder
 
-[![MasterHead]('https://x.com/0xEricBrown/header_photo')](github.com/ericbrown99)
+🛠️ Formerly onchain founder
 
 ---
 
