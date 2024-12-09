@@ -10,7 +10,7 @@
 ---
 
 
-[![Farcaster](https://img.shields.io/badge/farcaster_ericbrown.eth)](https://warpcast.com/ericbrown.eth)
+[![Farcaster](https://img.shields.io/badge/farcaster-ericbrown.eth-purple)](https://warpcast.com/ericbrown.eth)
 [![Twitter](https://img.shields.io/badge/Twitter-0xEricBrown-blue?style=flat&logo=twitter)](https://twitter.com/0xEricBrown)
 [![Base](https://img.shields.io/badge/Base-Builder-blue?style=flat&logo=ethereum)](https://base.org)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
