@@ -1,4 +1,4 @@
-![background](https://x.com/0xEricBrown/header_photo "background")
+![background](https://pbs.twimg.com/profile_banners/1097502501534924800/1723936289/1500x500 "background")
 
 
 # [eric.base.eth](https://base.org/names/eric) 🔵
