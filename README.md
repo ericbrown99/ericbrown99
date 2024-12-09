@@ -2,9 +2,10 @@
 
 # [eric.base.eth](https://base.org/names/eric) 🏗️ 
 
-🔷 Leading builder success at Base. Formerly a VC backed onchain founder, solidity & evm security community founder, and tradfi to onchain converter.
+🔷 Leading builder success at Base
+🛠️ Formerly an onchain founder
 
-🛠️ Helping builders on base thrive on base
+[![MasterHead]('https://x.com/0xEricBrown/header_photo')](your GitHub link)
 
 ---
 
