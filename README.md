@@ -5,7 +5,7 @@
 🔷 Leading builder success at Base
 🛠️ Formerly an onchain founder
 
-[![MasterHead]('https://x.com/0xEricBrown/header_photo')](your GitHub link)
+[![MasterHead]('https://x.com/0xEricBrown/header_photo')](github.com/ericbrown99)
 
 ---
 
