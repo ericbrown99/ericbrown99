@@ -3,7 +3,7 @@
 
 # [eric.base.eth](https://base.org/names/eric) 🔵
 
-🔷 Leading builder success at Base
+🔷 Leading DevRel at Base
 
 🛠️ Formerly onchain founder
 
